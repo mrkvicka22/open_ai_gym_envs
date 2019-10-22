@@ -1,1 +1,1 @@
-from gym_foo.envs.foo_env import FooEnv
+from tic_tac_toe.envs import TicTacToeEnviroment
